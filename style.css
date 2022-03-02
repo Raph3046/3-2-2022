@@ -1,0 +1,21 @@
+body {
+  background-color: blue;
+}
+h1 {
+  color: black;
+}
+ul {
+  background-color: red;;
+}
+h2 {
+  color: aqua;
+}
+p {
+  color: yellow;
+}
+strong {
+  color: navy;
+}
+em {
+  color: crimson;
+}
